@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.2"
+  baseProfile="tiny-ps"
+  viewBox="0 0 32 32">
+  <title>bimi-svg-tiny-12-ps</title>
+  <path
+    d="M16 2L20.326 10.7442L30 12.2144L23 19.0144L24.652 28.6442L16 24.0744L7.348 28.6442L9 19.0144L2 12.2144L11.674 10.7442L16 2Z"
+    fill="#3CC7C5"
+    stroke="black"
+    stroke-width="2"
+    stroke-linejoin="round"/>
+</svg>

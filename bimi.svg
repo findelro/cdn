@@ -3,12 +3,12 @@
   xmlns="http://www.w3.org/2000/svg"
   version="1.2"
   baseProfile="tiny-ps"
-  viewBox="0 0 32 32">
+  viewBox="0 0 96 96">
   <title>bimi-svg-tiny-12-ps</title>
   <path
-    d="M16 2L20.326 10.7442L30 12.2144L23 19.0144L24.652 28.6442L16 24.0744L7.348 28.6442L9 19.0144L2 12.2144L11.674 10.7442L16 2Z"
+    d="M48 6L60.978 32.2326L90 36.6432L69 57.0432L73.956 86.9326L48 72.2232L22.044 86.9326L27 57.0432L6 36.6432L35.022 32.2326L48 6Z"
     fill="#3CC7C5"
     stroke="black"
-    stroke-width="2"
+    stroke-width="6"
     stroke-linejoin="round"/>
 </svg>
